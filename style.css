@@ -1,0 +1,33 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+}
+.content {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 205px;
+    padding: 12px;
+    margin-top: 17vh;
+    font-family: "Outfit", sans-serif;
+}
+.code {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 18px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+.text{
+    font-size: 10px;
+    text-align: center;
+    font-weight: 400;
+    color:hsl(216, 15%, 48%) ;
+}
